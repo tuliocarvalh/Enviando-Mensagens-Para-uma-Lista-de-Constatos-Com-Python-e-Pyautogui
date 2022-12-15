@@ -1,0 +1,1 @@
+# Enviando-Mensagens-Para-uma-Lista-de-Constatos-Com-Python-e-Pyautogui
